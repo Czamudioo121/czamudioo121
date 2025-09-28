@@ -3,15 +3,17 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://cjz-portfolio-rnucmmth1-czamudioo121s-projects.vercel.app/#about)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-osvaldo-zamudio-onofre-8608a8197/)
 
-<p align="center">
-  <img src="https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
+<h3><b>Acerca de mi</b></h3>
+
+
+<p>Soy César Zamudio, un <b>apasionado estudiante de Ingeniería en Sistemas Computacionales</b> originario de <b>México</b>. Mi motor es la tecnología; busco constantemente la intersección entre la <b>programación sólida</b> y las <b>soluciones creativas e innovadoras</b>.
+Mi enfoque profesional se centraliza en dominar áreas de alta demanda: desde la <b>arquitectura de redes</b> y el <b>análisis de datos</b> para transformar la información en estrategia, hasta el <b>desarrollo front-end</b> que da vida a las interfaces. Complemento estas habilidades con experiencia en <b>soporte técnico</b> de primer nivel y la creación de experiencias fluidas mediante el <b>diseño UI/UX</b>.
+En esencia, mi misión es <b>aprender, construir e innovar</b> para entregar productos que no solo sean funcionales, sino verdaderamente productivos y creativos.</p>
 
 <h3><b>About me</b></h3>
 
-<p>I'm Cesar Zamudio, a Computer Systems Engineering student from <b>Mexico</b>, passionate about technology, programming, and creative solutions.  
-I'm currently focused on areas like <b>networks</b>, <b>data analysis</b>, <b>front-end development</b>, <b>technical support</b>, and <b>UI/UX design</b>.  
-I love to learn and build something new, productive, innovative, and creative.</p>
+<p>I'm Cesar Zamudio, a <b>passionate Computer Systems Engineering student</b> originally from <b>Mexico</b>. Technology is my driving force; I constantly seek the intersection between <b>solid programming</b> and <b>creative, innovative solutions</b>.
+My professional focus centers on mastering high-demand areas: from <b>network architecture</b> and <b>data analysis</b> to transform information into strategy, to <b>front-end development</b> that brings interfaces to life. I complement these skills with expertise in first-tier <b>technical support</b> and creating fluid experiences through <b>UI/UX design</b>. Essentially, my mission is to <b>learn, build, and innovate</b> to deliver products that are not only functional but truly productive and creative.</p>
 
 <pre>
 🎓 Currently entering the final year of my degree (2025–2026)
@@ -53,6 +55,10 @@ I love to learn and build something new, productive, innovative, and creative.</
   <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"></a>
     <a href="#"><img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
         <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"></a>
+</p>
 
-
+<p align="center">
+  <img src="https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg" 
+       alt="snake gif" 
+       width="8000px" /> 
 </p>
