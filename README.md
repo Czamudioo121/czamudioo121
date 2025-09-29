@@ -2,13 +2,12 @@
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://cjz-portfolio-rnucmmth1-czamudioo121s-projects.vercel.app/#about)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-osvaldo-zamudio-onofre-8608a8197/)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(czamudio121@gmail.com)
 
 <h3><b>Acerca de mi</b></h3>
 
-
-<p>Soy César Zamudio, un <b>apasionado estudiante de Ingeniería en Sistemas Computacionales</b> originario de <b>México</b>. Mi motor es la tecnología; busco constantemente la intersección entre la <b>programación sólida</b> y las <b>soluciones creativas e innovadoras</b>.
-Mi enfoque profesional se centraliza en dominar áreas de alta demanda: desde la <b>arquitectura de redes</b> y el <b>análisis de datos</b> para transformar la información en estrategia, hasta el <b>desarrollo front-end</b> que da vida a las interfaces. Complemento estas habilidades con experiencia en <b>soporte técnico</b> de primer nivel y la creación de experiencias fluidas mediante el <b>diseño UI/UX</b>.
-En esencia, mi misión es <b>aprender, construir e innovar</b> para entregar productos que no solo sean funcionales, sino verdaderamente productivos y creativos.</p>
+<b>Ingeniero en Sistemas Computacionales</b>. Mi motor es la tecnología y busco constantemente la intersección entre la <b>programación sólida</b> y la creación de <b>soluciones creativas e innovadoras</b> que resuelvan problemas.
+Mi enfoque profesional se centraliza en dominar áreas de alta demanda: desde la <b>arquitectura de redes</b> y el <b>análisis de datos</b> para transformar la información en estrategia, hasta el <b>desarrollo front-end</b> que da vida a las interfaces. Complemento estas habilidades con experiencia en <b>soporte técnico</b> de primer nivel y la creación de experiencias fluidas mediante el <b>diseño UI/UX</b>. En esencia, mi misión es <b>aprender, construir e innovar</b> para entregar productos que no solo sean funcionales, sino verdaderamente productivos y creativos.</p>
 
 <h3><b>About me</b></h3>
 
@@ -16,13 +15,12 @@ En esencia, mi misión es <b>aprender, construir e innovar</b> para entregar pro
 My professional focus centers on mastering high-demand areas: from <b>network architecture</b> and <b>data analysis</b> to transform information into strategy, to <b>front-end development</b> that brings interfaces to life. I complement these skills with expertise in first-tier <b>technical support</b> and creating fluid experiences through <b>UI/UX design</b>. Essentially, my mission is to <b>learn, build, and innovate</b> to deliver products that are not only functional but truly productive and creative.</p>
 
 <pre>
-🎓 Currently entering the final year of my degree (2025–2026)
-💻 Expanding my skills in Front-End Development
-🧠 Working on a web application with voice recognition for preschool children as my graduation project
-🛠️ I enjoy building modular and scalable applications that solve real-world problems
-📌 Ask me about SQL or Python
-📈 Currently learning: UI/UX Design, Data Analysis, Cybersecurity
-📬 Contact me: czamudio121@gmail.com
+🎓 <b>Ingeniero en Sistemas Computacionales</b> recién graduado.
+💻 Enfocado en expandir mis habilidades en <b>Desarrollo Front-End</b>.
+🧠 Mi proyecto de graduación fue una aplicación web con reconocimiento de voz para la educación preescolar.
+🛠️ Disfruto construir aplicaciones modulares y escalables que resuelven problemas del mundo real.
+📌 Pregúntame sobre <b>SQL</b> o <b>Python</b>.
+📈 Actualmente aprendiendo: <b>Diseño UI/UX</b>, <b>Análisis de Datos</b> y <b>Ciberseguridad</b>.
 </pre>
 
 
