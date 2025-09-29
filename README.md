@@ -2,17 +2,18 @@
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://cjz-portfolio-rnucmmth1-czamudioo121s-projects.vercel.app/#about)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-osvaldo-zamudio-onofre-8608a8197/)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(czamudio121@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:czamudio121@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Czamudioo121)
 
-<h3><b>Acerca de mi</b></h3>
+<b>Acerca de mi</b>
+---
 
 <b>Ingeniero en Sistemas Computacionales</b>. Mi motor es la tecnología y busco constantemente la intersección entre la <b>programación sólida</b> y la creación de <b>soluciones creativas e innovadoras</b> que resuelvan problemas.
 Mi enfoque profesional se centraliza en dominar áreas de alta demanda: desde la <b>arquitectura de redes</b> y el <b>análisis de datos</b> para transformar la información en estrategia, hasta el <b>desarrollo front-end</b> que da vida a las interfaces. Complemento estas habilidades con experiencia en <b>soporte técnico</b> de primer nivel y la creación de experiencias fluidas mediante el <b>diseño UI/UX</b>. En esencia, mi misión es <b>aprender, construir e innovar</b> para entregar productos que no solo sean funcionales, sino verdaderamente productivos y creativos.</p>
 
-<h3><b>About me</b></h3>
-
-<p>I'm Cesar Zamudio, a <b>passionate Computer Systems Engineering student</b> originally from <b>Mexico</b>. Technology is my driving force; I constantly seek the intersection between <b>solid programming</b> and <b>creative, innovative solutions</b>.
-My professional focus centers on mastering high-demand areas: from <b>network architecture</b> and <b>data analysis</b> to transform information into strategy, to <b>front-end development</b> that brings interfaces to life. I complement these skills with expertise in first-tier <b>technical support</b> and creating fluid experiences through <b>UI/UX design</b>. Essentially, my mission is to <b>learn, build, and innovate</b> to deliver products that are not only functional but truly productive and creative.</p>
+<b>About me</b>
+---
+<p><b>Computer Systems Engineer</b>. Technology is my driving force, and I constantly seek the intersection between <b>solid programming</b> and the creation of <b>creative, innovative solutions</b> that solve problems. My professional focus centers on mastering high-demand areas: from <b>network architecture</b> and <b>data analysis</b> to transform information into strategy, to <b>front-end development</b> that brings interfaces to life. I complement these skills with expertise in first-tier <b>technical support</b> and creating fluid experiences through <b>UI/UX design</b>. Essentially, my mission is to <b>learn, build, and innovate</b> to deliver products that are not only functional but truly productive and creative.</p>
 
 <pre>
 🎓 <b>Ingeniero en Sistemas Computacionales</b> recién graduado.
@@ -23,6 +24,14 @@ My professional focus centers on mastering high-demand areas: from <b>network ar
 📈 Actualmente aprendiendo: <b>Diseño UI/UX</b>, <b>Análisis de Datos</b> y <b>Ciberseguridad</b>.
 </pre>
 
+<pre>
+🎓 Recent <b>Computer Systems Engineering</b> graduate.
+💻 Focused on expanding my skills in <b>Front-End Development</b>.
+🧠 My graduation project was a voice recognition web application for preschool education.
+🛠️ I enjoy building modular and scalable applications that solve real-world problems.
+📌 Ask me about <b>SQL</b> or <b>Python</b>.
+📈 Currently learning: <b>UI/UX Design</b>, <b>Data Analysis</b>, and <b>Cybersecurity</b>.
+</pre>
 
 ## 💻 Technologies <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
