@@ -92,11 +92,6 @@ Mi enfoque profesional se centraliza en dominar áreas de alta demanda: desde la
   <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
-📊 GitHub Stats (Top Languages)
----
-<p align="center">
-  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Czamudioo121&layout=compact&langs_count=8&theme=algolia" />
-</p>
 
 <p align="center">
   <img src="https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg" 
