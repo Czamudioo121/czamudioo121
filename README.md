@@ -3,8 +3,7 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://cjz-portfolio-rnucmmth1-czamudioo121s-projects.vercel.app/#about)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-zamudio-8608a8197/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:czamudio121@gmail.com)
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](mailto:https://www.credly.com/users/zamudio-onofre-cesar-osvaldo/edit#credly)
-
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/zamudio-onofre-cesar-osvaldo/)
 
 
 <b>Acerca de mi</b>
